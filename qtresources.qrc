@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="homeIcon">icons/homeIcon.svg</file>
+        <file alias="restartIcon">icons/restartIcon.svg</file>
+        <file alias="switchGraphe_1">icons/switchGraphe_1.svg</file>
+        <file alias="switchGraphe_2">icons/switchGraphe_2.svg</file>
+        <file alias="eyeIcon">icons/eyeIcon.svg</file>
+        <file alias="beenIcon">icons/beenIcon.svg</file>
+        <file alias="moinsButton">icons/moinsButton.svg</file>
+        <file alias="plusButton">icons/plusButton.svg</file>
+        <file alias="moinsButtonDark">icons/moinsButton2.svg</file>
+        <file alias="plusButtonDark">icons/plusButton2.svg</file>
+        <file>aide/aide.txt</file>
+    </qresource>
+    <qresource prefix="/data"/>
+    <qresource prefix="/"/>
+</RCC>

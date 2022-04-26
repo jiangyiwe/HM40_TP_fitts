@@ -1,0 +1,11 @@
+Bienvenue dans le programme que nous avons créé.
+Vous pouvez démarrer le test en cliquant sur
+le bouton de start dans l'écran initial,
+l'annuler en cliquant sur le bouton Annuler,
+cliquer sur paramètre pour voir les résultats
+des tests passés et modifier les paramètres,
+cliquer sur quit pour quitter le programme entier,
+vous pouvez passer entre les deux graphiques,
+et vous pouvez voir tous les enregistrements de test dans la liste de tests,
+vous pouvez les voir ou les supprimer.
+
